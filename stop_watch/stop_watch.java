@@ -8,4 +8,3 @@ class Main {
   }
 }
 // make the timer not so fast when printed
-
